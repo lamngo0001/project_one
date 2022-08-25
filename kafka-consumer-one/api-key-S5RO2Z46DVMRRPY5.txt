@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-j503k2 ===
+
+API key:
+S5RO2Z46DVMRRPY5
+
+API secret:
+K9r3kXGiq2wjor3vMmxNaIpFPOGZMeEopIiw2ZHsb926vTprzJDxAi19rJYHyw7P
+
+Bootstrap server:
+pkc-ldvr1.asia-southeast1.gcp.confluent.cloud:9092

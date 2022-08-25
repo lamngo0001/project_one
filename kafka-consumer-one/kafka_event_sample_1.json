@@ -1,0 +1,1022 @@
+[
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942547458,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAJ",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNTAO",
+            "CLPT_IND_SEQ": "1",
+            "PORT_SKD_STS_CD": "D",
+            "YD_CD": "CNTAO10",
+            "CALL_YD_IND_SEQ": "1",
+            "VPS_ETA_DT": "2022-06-06T03:00:00.000",
+            "VPS_ETB_DT": "2022-06-06T05:00:00.000",
+            "VPS_ETD_DT": "2022-06-07T06:00:00.000",
+            "ACT_INP_FLG": "Y",
+            "CRE_DT": "2022-03-22T17:10:00.000",
+            "UPD_USR_ID": "OPUSADM",
+            "UPD_DT": "2022-08-18T16:34:59.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNTAO",
+            "CLPT_IND_SEQ": "1",
+            "PORT_SKD_STS_CD": null,
+            "YD_CD": "CNTAO10",
+            "CALL_YD_IND_SEQ": "1",
+            "VPS_ETA_DT": "2022-06-06T03:00:00.000",
+            "VPS_ETB_DT": "2022-06-06T05:00:00.000",
+            "VPS_ETD_DT": "2022-06-07T06:00:00.000",
+            "ACT_INP_FLG": "N",
+            "CRE_DT": "2022-03-22T17:10:00.000",
+            "UPD_USR_ID": "OPUSADM",
+            "UPD_DT": "2022-08-18T16:33:18.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942548091,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAEasPAAB",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "CNTAO",
+            "CLPT_IND_SEQ": "1",
+            "PORT_SKD_STS_CD": "D",
+            "YD_CD": "CNTAO10",
+            "CALL_YD_IND_SEQ": "1",
+            "VPS_ETA_DT": "2022-06-06T03:00:00.000",
+            "VPS_ETB_DT": "2022-06-06T05:00:00.000",
+            "VPS_ETD_DT": "2022-06-07T06:00:00.000",
+            "ACT_INP_FLG": "Y",
+            "CRE_DT": "2022-03-22T17:10:00.000",
+            "UPD_USR_ID": "OPUSADM",
+            "UPD_DT": "2022-08-18T16:34:59.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "CNTAO",
+            "CLPT_IND_SEQ": "1",
+            "PORT_SKD_STS_CD": null,
+            "YD_CD": "CNTAO10",
+            "CALL_YD_IND_SEQ": "1",
+            "VPS_ETA_DT": "2022-06-06T03:00:00.000",
+            "VPS_ETB_DT": "2022-06-06T05:00:00.000",
+            "VPS_ETD_DT": "2022-06-07T06:00:00.000",
+            "ACT_INP_FLG": "N",
+            "CRE_DT": "2022-03-22T17:10:00.000",
+            "UPD_USR_ID": "OPUSADM",
+            "UPD_DT": "2022-08-18T16:33:24.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942548724,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAJ",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNTAO",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNTAO",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942549062,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAK",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "KRPUS",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "KRPUS",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942549400,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAA",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNSHA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNSHA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942549738,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAI",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNNGB",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNNGB",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942550076,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAQ",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNSHK",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "CNSHK",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942550414,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAR",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "SGSIN",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "SGSIN",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942550752,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAS",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "SAJED",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "SAJED",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942551090,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAT",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "EGSCA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "EGSCA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942551428,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAGmcLAAU",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "EGDAM",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "EGDAM",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942551766,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAEax6AAU",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "ESBCN",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "ESBCN",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942552104,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAEax6AAJ",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "ESVLC",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "ESVLC",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942552442,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAEax6AAK",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "ITGOA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0034",
+            "SKD_DIR_CD": "W",
+            "VPS_PORT_CD": "ITGOA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942552780,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ABrAAMbLeAAC",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "ESBCN",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "ESBCN",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942553118,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ABrAAMbLeAAE",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "ESVLC",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "ESVLC",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942553456,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ABrAAMbLeAAF",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "ITGOA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "ITGOA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942553794,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ABrAAMbLeAAH",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "EGDAM",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "EGDAM",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942554132,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ABrAAMbLeAAL",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "EGSCA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "EGSCA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942554470,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ABrAAMbLeAAM",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "SAJED",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "SAJED",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942554808,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ABrAAMbLeAAN",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "SGSIN",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "SGSIN",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942555146,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ABrAAMbIHAAA",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "HKHKG",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "HKHKG",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:03:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942555484,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAEasPAAB",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "CNTAO",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "CNTAO",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942555822,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAEasPAAE",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "KRPUS",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "KRPUS",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942556160,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAEasPAAH",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "CNSHA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "CNSHA",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    },
+    {
+        "metadata": {
+            "TableID": 44,
+            "TableName": "OPUSADM.VSK_VSL_PORT_SKD",
+            "TxnID": "0.91.6.93637817",
+            "OperationName": "UPDATE",
+            "FileName": "pa000002074",
+            "FileOffset": 942556498,
+            "TimeStamp": "2022-08-18T16:34:58.995+08:00",
+            "Oracle ROWID": "AAA5F7ACCAAEasPAAS",
+            "CSN": "16198484462278",
+            "RecordStatus": "VALID_RECORD"
+        },
+        "data": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "CNNGB",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "before": {
+            "VSL_CD": "OMLT",
+            "SKD_VOY_NO": "0033",
+            "SKD_DIR_CD": "E",
+            "VPS_PORT_CD": "CNNGB",
+            "CLPT_IND_SEQ": "1",
+            "CALL_YD_IND_SEQ": "1",
+            "CRE_DT": "2022-03-22T17:10:00.000"
+        },
+        "userdata": {
+            "current_time": "2022-08-18T16:35:00.428+08:00"
+        },
+        "__striimmetadata": {
+            "position": null
+        }
+    }
+]
